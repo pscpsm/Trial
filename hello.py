@@ -1,4 +1,2 @@
-#lets check this works
+#Hello
 print("Hello World")
-my_string = "Hello everybody"
-print(my_string)
